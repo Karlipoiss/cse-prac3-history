@@ -1,0 +1,4 @@
+1) Total of 11 commits
+2) Last commit was made Mar 20, 2018
+3) The author of the commits is user Stopa
+4) Added local config data, core.repository, remote.origin, branch.master etc
